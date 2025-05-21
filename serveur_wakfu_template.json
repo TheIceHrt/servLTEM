@@ -1,0 +1,210 @@
+{
+    "server_name": "Guilde Wakfu",
+    "channels": [
+        {
+            "name": "👋┃bienvenue",
+            "type": "text",
+            "category": "🎉 Bienvenue"
+        },
+        {
+            "name": "📜┃règlement",
+            "type": "text",
+            "category": "🎉 Bienvenue"
+        },
+        {
+            "name": "🙋┃présentations",
+            "type": "text",
+            "category": "🎉 Bienvenue"
+        },
+        {
+            "name": "🎭┃rôles",
+            "type": "text",
+            "category": "🎉 Bienvenue"
+        },
+        {
+            "name": "📢┃news-wakfu",
+            "type": "text",
+            "category": "🧭 Infos Générales"
+        },
+        {
+            "name": "📖┃infos-guilde",
+            "type": "text",
+            "category": "🧭 Infos Générales"
+        },
+        {
+            "name": "✍️┃recrutement",
+            "type": "text",
+            "category": "🧭 Infos Générales"
+        },
+        {
+            "name": "🎖️┃grades-et-rangs",
+            "type": "text",
+            "category": "🧭 Infos Générales"
+        },
+        {
+            "name": "🔗┃liens-utiles",
+            "type": "text",
+            "category": "🧭 Infos Générales"
+        },
+        {
+            "name": "📅┃planning-donjons",
+            "type": "text",
+            "category": "⚔️ Guilde & Organisation"
+        },
+        {
+            "name": "🎊┃events-guilde",
+            "type": "text",
+            "category": "⚔️ Guilde & Organisation"
+        },
+        {
+            "name": "🏰┃territoires-politique",
+            "type": "text",
+            "category": "⚔️ Guilde & Organisation"
+        },
+        {
+            "name": "🛠️┃gestion-guilde",
+            "type": "text",
+            "category": "⚔️ Guilde & Organisation"
+        },
+        {
+            "name": "✅┃candidatures",
+            "type": "text",
+            "category": "⚔️ Guilde & Organisation"
+        },
+        {
+            "name": "💰┃banque-de-guilde",
+            "type": "text",
+            "category": "⚔️ Guilde & Organisation"
+        },
+        {
+            "name": "⚒️┃entraide-pve",
+            "type": "text",
+            "category": "🧵 Entraide & Métiers"
+        },
+        {
+            "name": "⚔️┃entraide-pvp",
+            "type": "text",
+            "category": "🧵 Entraide & Métiers"
+        },
+        {
+            "name": "🧶┃artisanat",
+            "type": "text",
+            "category": "🧵 Entraide & Métiers"
+        },
+        {
+            "name": "🌾┃métiers",
+            "type": "text",
+            "category": "🧵 Entraide & Métiers"
+        },
+        {
+            "name": "💱┃économie-échanges",
+            "type": "text",
+            "category": "🧵 Entraide & Métiers"
+        },
+        {
+            "name": "💬┃général",
+            "type": "text",
+            "category": "☕ Communauté"
+        },
+        {
+            "name": "🎮┃hors-wakfu",
+            "type": "text",
+            "category": "☕ Communauté"
+        },
+        {
+            "name": "📸┃screenshots",
+            "type": "text",
+            "category": "☕ Communauté"
+        },
+        {
+            "name": "🎨┃fanarts",
+            "type": "text",
+            "category": "☕ Communauté"
+        },
+        {
+            "name": "🤣┃memes",
+            "type": "text",
+            "category": "☕ Communauté"
+        },
+        {
+            "name": "✉️┃suggestions",
+            "type": "text",
+            "category": "☕ Communauté"
+        },
+        {
+            "name": "💻┃commandes-bot",
+            "type": "text",
+            "category": "🤖 Bots & Outils"
+        },
+        {
+            "name": "📊┃statistiques",
+            "type": "text",
+            "category": "🤖 Bots & Outils"
+        },
+        {
+            "name": "🛡️┃logs-modération",
+            "type": "text",
+            "category": "🤖 Bots & Outils"
+        },
+        {
+            "name": "🧾┃logs-donjons",
+            "type": "text",
+            "category": "🤖 Bots & Outils"
+        },
+        {
+            "name": "🗣️┃Général",
+            "type": "voice",
+            "category": "🔊 Vocaux"
+        },
+        {
+            "name": "⚔️┃Donjon #1",
+            "type": "voice",
+            "category": "🔊 Vocaux"
+        },
+        {
+            "name": "⚔️┃Donjon #2",
+            "type": "voice",
+            "category": "🔊 Vocaux"
+        },
+        {
+            "name": "⚔️┃Donjon #3",
+            "type": "voice",
+            "category": "🔊 Vocaux"
+        },
+        {
+            "name": "🛡️┃PvP / Entraînement",
+            "type": "voice",
+            "category": "🔊 Vocaux"
+        },
+        {
+            "name": "🤫┃Silencieux",
+            "type": "voice",
+            "category": "🔊 Vocaux"
+        },
+        {
+            "name": "💤┃AFK",
+            "type": "voice",
+            "category": "🔊 Vocaux"
+        },
+        {
+            "name": "🧠┃gestion-staff",
+            "type": "text",
+            "category": "🔒 Staff"
+        },
+        {
+            "name": "🧰┃modération",
+            "type": "text",
+            "category": "🔒 Staff"
+        },
+        {
+            "name": "🪄┃projets",
+            "type": "text",
+            "category": "🔒 Staff"
+        },
+        {
+            "name": "📂┃archives",
+            "type": "text",
+            "category": "🔒 Staff"
+        }
+    ]
+}
